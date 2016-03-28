@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name JST)(type Github)(uri https://github.com/KiCad/Connectors_JST.pretty/archive/master.zip)(options "")(descr ""))
+)
