@@ -1,4 +1,4 @@
-update=3/28/2016 12:31:38 PM
+update=3/28/2016 3:10:04 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=C:/Users/t9569bk/Documents/PCB_Libs/KICad-Library/BK_STM8
 LibName32=C:/Users/t9569bk/Documents/PCB_Libs/KICad-Library/BK_Common
+LibName33=C:/Users/t9569bk/Documents/PCB_Libs/HR911105A
